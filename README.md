@@ -3,5 +3,7 @@
 <hr>
 
 <p>
-  Neste <strong>projeto</strong> foram implementados os conhecimentos em Programação Orientada a Objetos (POO) em Java, através da implementação de um banco digital. Adiquiridos no decorrer no bootcamp!
+  Neste <strong>projeto</strong> foram implementados os conhecimentos em Programação Orientada a Objetos (POO) em Java, através da implementação de um banco digital.
 </p>
+
+<span>Sou grato pelos conhecimentos adiquiridos no decorrer no bootcamp!</span>
